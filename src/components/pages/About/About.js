@@ -12,7 +12,7 @@ const About = () => {
                         </div>
                         <div className="col-12 col-md-6">
                               <h2>Delowar Hossain</h2>
-                              <p>My only goal is to be a full stack developer. I want to be a good quality developer and I want to see my success in a few month. This is my only goal.</p>
+                              <p>My only goal is to be a full stack developer. I want to be a good quality developer and I want to see my success in a few month. This is my only goal. I will hard work day and night to achieve my goal.</p>
                         </div>
                   </div>
             </section>

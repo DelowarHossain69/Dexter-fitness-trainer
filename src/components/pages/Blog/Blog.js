@@ -19,7 +19,7 @@ const Blog = () => {
 
                   <div className='col-12 col-md-6'>
                         <h4>Different between authorization and authentication.</h4>
-                        <p>Both Authentication and Authorization area unit utilized in respect of knowledge security that permits the safety on an automatic data system. Simply put, Authentication is the process of verifying who a user is, while authorization is the process of verifying what they have access to. </p>
+                        <p>Both Authentication and Authorization area unit utilized in respect of knowledge security that permits the safety on an automatic data system. Simply put, Authentication is the process of verifying who a user is, while authorization is the process of verifying what they have access to.</p>
                   </div>
 
             </section>
