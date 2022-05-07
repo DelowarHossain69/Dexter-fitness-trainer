@@ -8,7 +8,7 @@ import Slider from './Slider/Slider';
 import Services from "../Services/Services";
 
 const Home = () => {
-      // updated
+      
       return (
             <div>
                   <Slider></Slider>
