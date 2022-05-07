@@ -7,13 +7,12 @@ import Reviews from './Reviews/Reviews';
 import Slider from './Slider/Slider';
 
 const Home = () => {
-
+      // updated
       return (
             <div>
                   <Slider></Slider>
                   <AboutTrainer></AboutTrainer>
                   <Results></Results>
-                  
                   <Motivation></Motivation>
                   <Reviews></Reviews>
                   <Contact></Contact>
