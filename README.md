@@ -8,7 +8,11 @@
 * User can be logged with google, facebook and github.
 * The checkout page of this website is protected.
 
-
+* # The technologies used in this website
+* React js
+* React router
+* Firebase
+* React router hooks etc.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
