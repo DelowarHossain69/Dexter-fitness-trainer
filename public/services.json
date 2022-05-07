@@ -1,0 +1,23 @@
+[
+  {
+    "id": "62749fb59912bdb140e4b3da",
+    "img": "http://placehold.it/32x32",
+    "price": 99,
+    "name": "STANDARD",
+    "services" : ["Personal Training", "Workout Plans", "Nutrition And Diet", "",""]
+  },
+  {
+    "id": "62749fb5b16718e8755016e8",
+    "img": "http://placehold.it/32x32",
+    "price": 138,
+    "name": "GOLD",
+    "services" : ["Personal Training", "Workout Plans", "Nutrition And Diet", "Training Videos", ""]
+  },
+  {
+    "id": "62749fb5a7d8297f10d7df98",
+    "img": "http://placehold.it/32x32",
+    "price": 230,
+    "name": "PREMIUM",
+    "services" : ["Personal Training", "Workout Plans", "Nutrition And Diet", "Training Videos", "Support"]
+  }
+]

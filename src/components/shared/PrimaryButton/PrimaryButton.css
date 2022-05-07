@@ -1,0 +1,18 @@
+.primaryButton{
+      background-color: #282f3d;
+      border: 1px solid #282f3d !important;
+      text-transform: uppercase;
+      transition: .3s;
+}
+.primaryButton:hover, .primaryButton:focus{
+      background-color: white;
+      color : #000;
+      outline: none;
+}
+
+.primaryClr {
+      color: #282f3d;
+}
+.primaryBg{
+      background-color: #282f3d;
+}

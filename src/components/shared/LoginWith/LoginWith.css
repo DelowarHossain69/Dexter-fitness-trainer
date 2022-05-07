@@ -1,0 +1,31 @@
+.loginWithButtons > button{
+      border: none;
+      padding: 5px 7px;
+      border-radius: 5px;
+      outline: none;
+      letter-spacing: 2px;
+      color: #fff;
+      transition: .4s;
+}
+.loginWithButtons > button > img{
+      width: 30px;
+      margin-right: 5px;
+}
+.loginWithGoogleBtn{
+      background-color: #DE4B39;
+}
+.loginWithFacebookBtn{
+      background-color: #4D6CA6;
+}
+.loginWithGithub{
+      background-color: #867878;
+}
+.loginWithGoogleBtn:hover{
+      background-color: #de4c39c9;
+}
+.loginWithFacebookBtn:hover{
+      background-color: #4d6ca6d4;
+}
+.loginWithGithub:hover{
+      background-color: #867878c1;
+}

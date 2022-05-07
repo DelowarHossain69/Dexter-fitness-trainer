@@ -1,0 +1,14 @@
+.footer-socialMedia-icon img{
+      width: 40px;
+      margin: 0px 10px;
+      cursor: pointer;
+      transition: .5s;
+}
+
+.footer-socialMedia-icon img:hover{
+      transform: translateY(-10px);
+}
+
+.primary-clr {
+      color: #ddd;
+}

@@ -1,0 +1,41 @@
+.login-form{
+      margin: 100px 0px;
+}
+.login-form-container{
+      width: 400px;
+      background-color: #212529;
+      padding: 10px;
+      border-radius: 10px;
+}
+.loginOrRegisterForm > input{
+      display: block;
+      width: 100%;
+      margin: 10px 0px;
+      padding: 10px 10px;
+      border-radius: 7px;
+      outline: none;
+      border: none;
+      transition: .3s;
+}
+.switchLoginOrRegister:hover{
+      text-decoration: underline;
+      cursor: pointer;
+}
+.loginOrRegisterFormBtn{
+      font-weight: bold;
+      border: none;
+      outline: none;
+      width: 100%;
+      padding: 5px 0px;
+      font-size: 20px;
+      border-radius: 7px;
+      transition: .4s;
+}
+.loginOrRegisterFormBtn:hover{
+      background-color: rgb(216, 209, 209);
+}
+.login-or{
+      width: 100px;
+      height: 2px;
+      background-color: #fff;
+}

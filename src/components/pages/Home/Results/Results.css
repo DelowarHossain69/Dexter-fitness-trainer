@@ -1,0 +1,28 @@
+.reslutImg{
+      max-width: 100%;
+      display: block;
+      padding: 0;
+      transition: .4s;
+}
+.reslutImg:hover{
+      cursor: pointer;
+      transform: scale(1.1);
+}
+.section-title{
+      text-align: center;
+      position: relative;
+}
+.section-title::after{
+      content: '';
+      width: 100px;
+      height: 2px;
+      background-color: #282f3d;
+      display: block;
+      margin: 0 auto;
+      margin-top: 10px;
+}
+.section-sub-title{
+      width: 50%;
+      margin: 0 auto;
+      text-align: center;
+}
