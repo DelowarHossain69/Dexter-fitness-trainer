@@ -1,6 +1,13 @@
 # Dexter Fitness Trainer
 # Live site : 
 
+* # website's different features and functionality. 
+* This website has a protected route
+* This website has serveral login system.
+* User can be logged with email and password.
+* User can be logged with google, facebook and github.
+* The checkout page of this website is protected.
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
