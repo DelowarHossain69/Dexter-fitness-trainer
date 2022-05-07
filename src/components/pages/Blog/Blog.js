@@ -5,6 +5,17 @@ const Blog = () => {
             <section className='container mx-auto row my-5'>
 
                   <div className='col-12 col-md-6'>
+                        <p>I use Firebase to Authenticate a website using Firebase. A website can be ealiy Authenticate using Firebase. so, I use Firbase.</p>
+                        <ul>
+                              <h4>Different ways to Authenticate a Web Application</h4>
+                              <li>Back4App</li>
+                              <li>AWS Amplify</li>
+                              <li>Kuzzle</li>
+                              <li>Couchbase</li>
+                              <li>RxDB</li>
+                        </ul>
+                  </div>
+                  <div className='col-12 col-md-6'>
                         <h4>There are many services which Firebase provides:</h4>
                         <ul>
                               <li>Cloud Firestore.</li>
